@@ -17,10 +17,6 @@ track deposits and expenses. Offline functionality supported using indexedDB & s
 
 * [Usage](#usage)
 
-* [Contributing](#contributing)
-
-* [Testing](#testing)
-
 * [Screenshot](#screenshot)
 
 * [Questions](#questions)
@@ -45,7 +41,6 @@ track money flow
 
 budget-tracker-1991.herokuapp.com
         
-
 
 ## Questions
 
